@@ -15,6 +15,8 @@ Given a large image with many letters and strong synthetic noise:
 - each tile includes **10–40 semi-transparent circles** 
 - there are **10,000 letters** total
 
+**Input:** You can download the example image here: [Google Drive — letters image](https://drive.google.com/file/d/15XPScSlkhXaBvoNBKKT0zxVeTatJr5sO/view?usp=sharing)
+
 **Output:** counts of each letter in a simple CSV.
 
 ---
